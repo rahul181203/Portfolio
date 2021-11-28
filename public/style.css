@@ -1,0 +1,83 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+.navbar-brand{
+    font-family: "ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.bar{
+    background-color: tomato;   
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'Montserrat-light';
+}
+.title-msg{
+    padding-top: 220px;
+    font-size: 40px;
+    font-family: 'Montserrat-light';
+}
+.title-name{
+    font-size: 70px;
+    font-family: 'Montserrat-light';
+}
+.about-link{
+    margin-top: 20px;
+}
+.title{
+    margin-bottom: 50px;
+    font-family: "ubuntu";
+}
+.about-desp{
+    line-height: 40px;
+}
+.box{
+    padding-left: 50px;
+}
+.icon{
+    padding-bottom: 10%;
+    padding-left: 100px;
+}
+.tool{
+    height:150px;
+    width:auto;
+    text-align: center;
+}
+.row{
+    padding-bottom: 150px;
+}
+.d-block{
+    height:700px
+}
+.project-title{
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 50px;
+    font-family: "ubuntu";
+}
+.card img{
+    height:300px;
+    width:325px;
+}
+.form{
+    background-color: lightpink;
+    padding: 10px 10px;
+    border-radius: 10px;
+    margin-bottom: 150px;
+    box-shadow: 2px;
+}
+#formContainer{
+    z-index: 1;
+    float: none;
+}
+.copyright{
+    text-align: center;
+}
