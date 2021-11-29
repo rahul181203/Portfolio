@@ -2,6 +2,7 @@ import React from "react";
 import web from '../image/Web development.jpg'
 import ACM from '../image/ACM.png'
 import DevFest from '../image/devfest_.jpg'
+import Python from '../image/Python.jpg'
 
 function Certificates(){
     return (
@@ -19,6 +20,9 @@ function Certificates(){
             </div>
             <div className="carousel-item">
             <img src={ACM} className="d-block w-100" alt="acm"/>
+            </div>
+            <div className="carousel-item">
+            <img src={Python} className="d-block w-100" alt="python"/>
             </div>
             <div className="carousel-item">
             <img src={DevFest} className="d-block w-100" alt="devfest"/>
