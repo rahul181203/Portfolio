@@ -12,8 +12,8 @@ function about(){
                     <div className='box'>
                         <h1 className='title'>Let Me Introduce About Myself</h1>
                         <h5 className='about-desp'><b>I'M Rahul Sai </b>I am studying B.tech first year in 
-                        Vellore Institute of Technology, Andhra Pradesh, India. <br/> I got 10 points in 10th class.<br/>
-                        I got 9.2 GPA in Class 12. <br/>I am very Intrested in learning
+                        Vellore Institute of Technology, Andhra Pradesh, India.
+                        <br/>I am very Intrested in learning
                         new programming languages and new skills.</h5>
                     </div>
                 </div>
